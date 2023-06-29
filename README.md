@@ -1,2 +1,2 @@
 # forcePushToGithub
-auto push code to github without Manual
+auto push code to github without manual
